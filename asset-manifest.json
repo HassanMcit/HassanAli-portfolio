@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/HassanAli-portfolio/static/css/main.9ab4cf59.css",
-    "main.js": "/HassanAli-portfolio/static/js/main.57c58822.js",
+    "main.js": "/HassanAli-portfolio/static/js/main.c49a8f8c.js",
     "static/js/787.14184507.chunk.js": "/HassanAli-portfolio/static/js/787.14184507.chunk.js",
     "static/media/revicons.eot": "/HassanAli-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/HassanAli-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/HassanAli-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/HassanAli-portfolio/index.html",
     "main.9ab4cf59.css.map": "/HassanAli-portfolio/static/css/main.9ab4cf59.css.map",
-    "main.57c58822.js.map": "/HassanAli-portfolio/static/js/main.57c58822.js.map",
+    "main.c49a8f8c.js.map": "/HassanAli-portfolio/static/js/main.c49a8f8c.js.map",
     "787.14184507.chunk.js.map": "/HassanAli-portfolio/static/js/787.14184507.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab4cf59.css",
-    "static/js/main.57c58822.js"
+    "static/js/main.c49a8f8c.js"
   ]
 }
