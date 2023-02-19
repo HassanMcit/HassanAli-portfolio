@@ -1,0 +1,35 @@
+* {
+    font-family: Poppins,sans-serif !important;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a.text-secondary {
+    font-size: 20px;
+    font-weight: 400 !important;
+    transition: 0.2s ease-in-out;
+    -webkit-transition: 0.2s ease-in-out;
+    -moz-transition: 0.2s ease-in-out;
+    -ms-transition: 0.2s ease-in-out;
+    -o-transition: 0.2s ease-in-out;
+}
+
+a.text-secondary.face:hover {
+    color: #3B5998 !important; 
+}
+
+a.text-secondary.linked:hover {
+    color: #0077B5 !important; 
+}
+
+a.text-secondary.google:hover {
+    color: #DD4B39 !important; 
+}
+
+a.text-secondary.git:hover {
+    color: #000 !important; 
+}

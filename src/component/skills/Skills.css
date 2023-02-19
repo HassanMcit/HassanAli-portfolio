@@ -1,0 +1,36 @@
+.text-light {
+    color: #cecece9c !important;
+}
+
+.text-success {
+    color: #20c997 !important;
+}
+
+.text-success:hover {
+    color: #1baa80 !important;
+}
+
+.btn-success {
+    background-color: #20c997;
+    border-color: #20c997;
+}
+
+.btn-success:hover {
+    background-color: #1baa80 !important;
+    border-color: #1baa80;
+}
+
+span.border-bottom.border-2.d-block.mx-auto {
+    border-color: #20c997!important;
+}
+
+.CircularProgressbar .CircularProgressbar-text {
+    fill: #20c997 !important;
+    font-size: 20px;
+    text-anchor: middle;
+}
+
+.react-multi-carousel-list {
+    background-color: #F8F9FA;
+    padding: 20px 0;
+}
